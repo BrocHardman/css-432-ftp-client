@@ -1,1 +1,1 @@
-# FTP-Client
+# FTP-ClientFTP Client class project for CSS 432.
